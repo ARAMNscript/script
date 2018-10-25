@@ -1,2 +1,2 @@
-# Admin Finder
+# Admin Finder scritp
 Admin Finder
