@@ -23,7 +23,7 @@ else:
     exit
 print("\n")
 os.system('cls')
-patch = open('uu.txt')
+patch = open('admin.txt')
 for admin in patch:
     try:
         s = site + '/' + admin
