@@ -1,2 +1,2 @@
-# script
+# Admin Finder
 Admin Finder
